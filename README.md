@@ -3,15 +3,16 @@
 > C++에서 opencv 사용하기
 > 
 
-<aside>
-💡 개발 환경: 
-OS : Windows 11 Home 23H2
-프로세서 : Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz   2.90 GHz
-RAM : 32.0GB
-IDE:  Microsoft Visual Studio Community 2022 (64-bit) - Current
-버전 17.8.2
 
-</aside>
+>💡 개발 환경: 
+>OS : Windows 11 Home 23H2
+>
+>프로세서 : Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz   2.90 GHz
+>
+>RAM : 32.0GB
+>
+>IDE:  Microsoft Visual Studio Community 2022 (64-bit) - Current버전 17.8.2
+>
 
 1. **opencv 다운로드**
 
@@ -21,11 +22,11 @@ IDE:  Microsoft Visual Studio Community 2022 (64-bit) - Current
 
 가장 위의 버전을 다운로드 했습니다. 해당 하는 버전을 잘 기억해서 파일 경로 명에 착오 없도록 합니다.
 
-1. **다운로드 된 파일 실행 → 경로를 C: 로 바꾸기**
+2. **다운로드 된 파일 실행 → 경로를 C: 로 바꾸기**
 
 ![Untitled](OpenCV%20e0f1bb11a5044e739b183c7a61be5d8d/Untitled%201.png)
 
-1. **visual studio 2022 프로젝트 설정**
+3. **visual studio 2022 프로젝트 설정**
 - 프로젝트 생성
 
 ![Untitled](OpenCV%20e0f1bb11a5044e739b183c7a61be5d8d/Untitled%202.png)
@@ -58,7 +59,7 @@ IDE:  Microsoft Visual Studio Community 2022 (64-bit) - Current
 
 ![Untitled](OpenCV%20e0f1bb11a5044e739b183c7a61be5d8d/Untitled%206.png)
 
-1. **테스트**
+4. **테스트**
 
 테스트코드
 
